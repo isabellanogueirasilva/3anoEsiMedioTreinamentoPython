@@ -1,5 +1,4 @@
-# Avalia-o_Processual_Back-End.
-
+#3anoEsiMedioTreinamentoPython
 🐍 Atividades em Python
 
 Este repositório reúne três atividades desenvolvidas para praticar lógica de programação, manipulação de dados e conceitos fundamentais da linguagem Python. Cada arquivo explora um tipo diferente de problema, permitindo aprimorar habilidades importantes para iniciantes.
